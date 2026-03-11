@@ -1,9 +1,11 @@
 import './globals.css'
-export const metadata = { title: 'Siggy AI', description: 'Ritual AI Node' }
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <head>
+        <script src="https://cdn.tailwindcss.com"></script>
+      </head>
+      <body className="bg-[#0a0a0c]">{children}</body>
     </html>
   )
 }
