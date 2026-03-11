@@ -8,7 +8,7 @@ export default function Home() {
   const scrollRef = useRef(null);
 
   // LINK GAMBAR YANG SUDAH DI-FIX (DIRECT LINK)
-  const SIGGY_AVATAR = "https://i.ibb.co.com/mR70FpWz/1000551537.jpg"; 
+  const SIGGY_AVATAR = "https://i.ibb.co.com/GQG7WBVH/Tak-berjudul65-20260224010326.png"; 
 
   useEffect(() => {
     if (scrollRef.current) scrollRef.current.scrollTop = scrollRef.current.scrollHeight;
