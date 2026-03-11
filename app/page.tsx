@@ -53,7 +53,7 @@ export default function Home() {
             </div>
             <div>
               <h1 className="text-xl font-black italic tracking-tighter text-white uppercase leading-none">Siggy <span className="text-orange-500 underline decoration-double">v2</span></h1>
-              <p className="text-[8px] text-orange-500/80 uppercase tracking-[0.4em] font-bold mt-1">Identity Verified: 0xpudge01</p>
+              <p className="text-[8px] text-orange-500/80 uppercase tracking-[0.4em] font-bold mt-1">Identity Verified: Techies</p>
             </div>
           </div>
           <div className="flex items-center gap-2 px-2 py-1 bg-green-500/10 rounded-full border border-green-500/30">
